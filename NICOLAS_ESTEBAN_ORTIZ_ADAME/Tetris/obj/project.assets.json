@@ -8,34 +8,27 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "D:\\Usuarios\\neortiz\\.nuget\\packages\\": {},
-    "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\nicko\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Usuarios\\neortiz\\Downloads\\Tetrix\\Tetris-Game-main\\Tetris\\Tetris.csproj",
+      "projectUniqueName": "C:\\Users\\nicko\\Downloads\\Play-Box_7996\\NICOLAS_ESTEBAN_ORTIZ_ADAME\\Tetris\\Tetris.csproj",
       "projectName": "Tetris",
-      "projectPath": "D:\\Usuarios\\neortiz\\Downloads\\Tetrix\\Tetris-Game-main\\Tetris\\Tetris.csproj",
-      "packagesPath": "D:\\Usuarios\\neortiz\\.nuget\\packages\\",
-      "outputPath": "D:\\Usuarios\\neortiz\\Downloads\\Tetrix\\Tetris-Game-main\\Tetris\\obj\\",
+      "projectPath": "C:\\Users\\nicko\\Downloads\\Play-Box_7996\\NICOLAS_ESTEBAN_ORTIZ_ADAME\\Tetris\\Tetris.csproj",
+      "packagesPath": "C:\\Users\\nicko\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nicko\\Downloads\\Play-Box_7996\\NICOLAS_ESTEBAN_ORTIZ_ADAME\\Tetris\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "D:\\Usuarios\\neortiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\nicko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0-windows7.0"
+        "net5.0-windows"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0-windows7.0": {
@@ -58,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -70,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
